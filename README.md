@@ -6,6 +6,4 @@ This project implements simple web application which interacts with a deployed r
 
 ## Sample Output
 
-### Classifier Result
-
 <img src="./assets/result.png" width="600" height="200">
